@@ -1,2 +1,2 @@
-Vim Syntax Highlighter for QML
+QML Syntax Highlighter for Vim
 ------------------------------
